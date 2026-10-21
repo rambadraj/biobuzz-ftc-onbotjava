@@ -1,0 +1,7 @@
+*.apk
+*.class
+*.dex
+matchlogs/
+*.log
+.DS_Store
+Thumbs.db
